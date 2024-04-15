@@ -20,4 +20,4 @@ yarn-debug.log*
 yarn-error.log*
 
 # github doesn't need our repository info
-.npmrc
+*.npmrc
